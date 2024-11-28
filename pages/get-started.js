@@ -14,24 +14,24 @@ export default function GetStarted() {
   return (
     <>
       <Head>
-        <title>Contact us - Blinder</title>
+        <title>Contact us - LingerMade</title>
       </Head>
       <div className='pt-28 pb-12'>
         <div className='custom-screen text-gray-600'>
           <div className='max-w-lg mx-auto gap-12 justify-between lg:flex lg:max-w-none'>
             <div className='max-w-lg sm:text-center lg:text-left'>
               <h1 className='text-gray-800 text-3xl font-semibold sm:text-4xl'>
-                Talk to a Blinder expert
+                Talk to a LingerMade expert
               </h1>
               <p className='mt-3'>
                 We are here to help. Get in touch with sales our press team and
                 let us know how we can help, or shoot us an email on{" "}
                 <a
-                  href='mailto:support@blinder.com'
+                  href='mailto:support@LingerMade.com'
                   target='_blank'
                   rel='noreferrer'
                   className='text-indigo-600 hover:text-indigo-400 font-medium duration-150'>
-                  support@blinder.com.
+                  support@LingerMade.com.
                 </a>
               </p>
             </div>
